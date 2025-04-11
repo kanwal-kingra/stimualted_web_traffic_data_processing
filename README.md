@@ -15,6 +15,9 @@ It demonstrates how to ingest, process, and analyze large-scale log data using d
   - Session length
   - Traffic sources
   - Last active user
+4. Converts to Global Temporary Views to analyse using SQL in pyspark
+5. Converted pyspark DataFrame to Pandas DataFrame
+6. Plotted various insights from data using Matplotlib (Web Page Visits, users per device)
 
 
 ### Data is simulated for testing purposes, Can be extended for real-time or cloud-based processing.
